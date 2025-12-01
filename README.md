@@ -38,13 +38,15 @@ This Spring Boot backend originally powered the full job tracking application an
 ---
 
 ## 📦 Project Structure
+```
 src/
-├── main/java/... (controllers, repositories, services)
-└── main/resources/
-├── application.properties
-└── other config files
+ ├── main/java/...  (controllers, repositories, services)
+ └── main/resources/
+      ├── application.properties
+      └── other config files
 Dockerfile
 pom.xml
+```
 
 ---
 
